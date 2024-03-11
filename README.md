@@ -1,4 +1,8 @@
 
+
+![](src/img/logo.png)
+
+
 # Hackathon Solution: Technology + Sustainability
 
 ## Theme: Energy • Ocean • Society
